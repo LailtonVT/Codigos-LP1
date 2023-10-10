@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/LailtonVilla/Desktop/Codigos-LP1/Maior, menor e media corrigida/build",
-      "program": "c:/Users/LailtonVilla/Desktop/Codigos-LP1/Maior, menor e media corrigida/build/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
