@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697034471 source:c:\users\lailtonvilla\desktop\codigos-lp1\lp1 c++ cpp 01\classe-invoice-02\src\invoice.cpp
+	<iostream>
+	"Invoice.h"
+	<string>
+
+1697034471 c:\users\lailtonvilla\desktop\codigos-lp1\lp1 c++ cpp 01\classe-invoice-02\include\invoice.h
+	<string>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1697033135 source:c:\users\lailtonvilla\desktop\codigos-lp1\lp1 c++ cpp 01\classe-pessoa-02\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Pessoa.h"
+
+1697033135 c:\users\lailtonvilla\desktop\codigos-lp1\lp1 c++ cpp 01\classe-pessoa-02\include\pessoa.h
+	<string>
+
+1697033191 source:c:\users\lailtonvilla\desktop\codigos-lp1\lp1 c++ cpp 01\classe-pessoa-02\src\pessoa.cpp
+	<string>
+	"Pessoa.h"
+

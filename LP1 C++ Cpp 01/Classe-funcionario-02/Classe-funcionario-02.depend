@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1697033873 source:c:\users\lailtonvilla\desktop\codigos-lp1\lp1 c++ cpp 01\classe-funcionario-02\main.cpp
+	<iostream>
+	"Funcionario.h"
+
+1697033873 c:\users\lailtonvilla\desktop\codigos-lp1\lp1 c++ cpp 01\classe-funcionario-02\include\funcionario.h
+	<string>
+
+1697033873 source:c:\users\lailtonvilla\desktop\codigos-lp1\lp1 c++ cpp 01\classe-funcionario-02\src\funcionario.cpp
+	<string>
+	"Funcionario.h"
+

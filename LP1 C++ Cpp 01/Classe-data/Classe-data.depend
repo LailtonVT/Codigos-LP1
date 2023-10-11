@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1697034925 source:c:\users\lailtonvilla\desktop\codigos-lp1\lp1 c++ cpp 01\classe-data\main.cpp
+	<iostream>
+	"Data.h"
+
+1697035048 c:\users\lailtonvilla\desktop\codigos-lp1\lp1 c++ cpp 01\classe-data\include\data.h
+	<string>
+
+1697035009 source:c:\users\lailtonvilla\desktop\codigos-lp1\lp1 c++ cpp 01\classe-data\src\data.cpp
+	<iostream>
+	<string>
+	"Data.h"
+
