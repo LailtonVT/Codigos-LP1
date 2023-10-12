@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1697073134 source:c:\users\lailtonvilla\desktop\codigos-lp1\lp1 c++ cpp 01\sistema-controle-de-gastos\src\despesa.cpp
+	<iostream>
+	<string>
+	"Despesa.h"
+
+1697073134 c:\users\lailtonvilla\desktop\codigos-lp1\lp1 c++ cpp 01\sistema-controle-de-gastos\include\despesa.h
+	<string>
+
+1697073321 source:c:\users\lailtonvilla\desktop\codigos-lp1\lp1 c++ cpp 01\sistema-controle-de-gastos\src\controledegastos.cpp
+	<iostream>
+	<string>
+	"ControleDeGastos.h"
+
+1697073321 c:\users\lailtonvilla\desktop\codigos-lp1\lp1 c++ cpp 01\sistema-controle-de-gastos\include\controledegastos.h
+	"Despesa.h"
+	<vector>
+
