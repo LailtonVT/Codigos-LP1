@@ -5,11 +5,8 @@ Este programa em C++ define uma classe chamada "Data" para representar informaç
 
 ## Diagrama de classes
 
-<<<<<<< HEAD
+
 ![Alt text](<Class Diagram0.jpg>)
-=======
-[![Alt text](image-1.png)](https://github.com/LailtonVT/Codigos-LP1/blob/main/LP1%20C%2B%2B%20Cpp%2001/Classe-data/Class%20Diagram0.jpg)
->>>>>>> 99ad7fe59fe4b8f0d6c290a0042893dbb3f4dc88
 
 ## Instruções 
 
