@@ -3,6 +3,10 @@
 
 Este programa em C++ define uma classe chamada "Funcionario" para representar informações de funcionários, incluindo primeiro nome, sobrenome e salário mensal. Ele permite criar objetos do tipo "Funcionario" com diferentes construtores, configurar e recuperar informações, calcular o salário anual e aumentar o salário. Abaixo estão as instruções de uso e um exemplo de entrada e saída do programa.
 
+## Diagrama de classe
+
+![Alt text](image.png)
+
 ## Instruções 
 
 O programa solicita que o usuário insira o número de funcionários a serem gerenciados (no caso do exemplo a seguir, 2 funcionários).

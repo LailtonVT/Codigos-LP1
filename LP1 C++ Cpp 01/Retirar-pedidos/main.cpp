@@ -4,21 +4,21 @@
 using namespace std;
 
 int main()
-{
+{ 
     int n;
 
     cin >> n;
 
     vector<int> vetorA(n);
 
-    //agora vou criar um laço for para completar o vetor com números maiores que zero
+    //agora vou criar um laï¿½o for para completar o vetor com nï¿½meros maiores que zero
     for (int i = 0; i < n; i++){
             do{
                 cin >> vetorA[i];;
         }while (vetorA[i] <= 0);
     }
 
-    //agora vou criar um laço for para remover os numeros repetidos
+    //agora vou criar um laï¿½o for para remover os numeros repetidos
     for (int i = 0; i < n; i++){
         for (int j = i + 1; j < n; j++){
             if (vetorA[i] == vetorA[j]){
@@ -27,7 +27,7 @@ int main()
         }
     }
 
-    // agora vou criar um laço para imprimir os vetores sem incluir os zeros
+    // agora vou criar um laï¿½o para imprimir os vetores sem incluir os zeros
     for (int i = 0; i < n; i++){
         if (vetorA[i] != 0){
             cout << vetorA[i] << " ";

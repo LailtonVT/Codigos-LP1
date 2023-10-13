@@ -3,6 +3,10 @@
 
 Este programa em C++ define uma classe chamada "Data" para representar informações de datas, incluindo dia, mês e ano. Ele permite criar objetos do tipo "Data" com diferentes construtores, configurar e recuperar informações, avançar a data em um número especificado de dias e exibir a data no formato "dd/mm/aaaa". Abaixo estão as instruções de uso e um exemplo de entrada e saída do programa.
 
+## Diagrama de classes
+
+![Alt text](image-1.png)
+
 ## Instruções 
 
 O programa solicita que o usuário insira uma data inicial no formato "dia mês ano" (no caso do exemplo a seguir, 15 de abril de 2023).

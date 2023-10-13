@@ -3,6 +3,10 @@
 
 Este programa em C++ define uma classe chamada "Invoice" para representar informações de faturas, incluindo número, descrição, quantidade e preço. Ele permite criar objetos do tipo "Invoice" com diferentes construtores, configurar e recuperar informações, calcular o valor total da fatura e imprimir os detalhes da fatura. Abaixo estão as instruções de uso e um exemplo de entrada e saída do programa.
 
+## Diagrama de classe
+
+![Alt text](<Class Diagram0.jpg>)
+
 ## Instruções 
 
 O programa solicita que o usuário insira informações de fatura para produtos.

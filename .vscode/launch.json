@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/LailtonVilla/Desktop/Codigos-LP1/LP1 C++ Cpp 01/Retirar-pedidos",
+      "program": "c:/Users/LailtonVilla/Desktop/Codigos-LP1/LP1 C++ Cpp 01/Retirar-pedidos/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
