@@ -3,6 +3,10 @@
 
 Este programa em C++ permite ao usuário registrar despesas com nome, valor e tipo de gasto, e, em seguida, calcular o total de despesas de um tipo específico e exibir as despesas desse tipo. Abaixo estão as instruções de uso e um exemplo de entrada e saída do programa.
 
+## Diagrama de Classe
+
+![Alt text](<Class Diagram0.jpg>)
+
 ## Instruções
 
 O programa solicita que o usuário insira o número de despesas.
