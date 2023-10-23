@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1698081077 source:c:\users\lailtonvilla\desktop\codigos-lp1\lpi c++ cpp 02\sistema-controle-pagamentos\src\pagamento.cpp
+	"Pagamento.h"
+	<string>
+
+1698081020 c:\users\lailtonvilla\desktop\codigos-lp1\lpi c++ cpp 02\sistema-controle-pagamentos\include\pagamento.h
+	<string>
+
+1698081232 source:c:\users\lailtonvilla\desktop\codigos-lp1\lpi c++ cpp 02\sistema-controle-pagamentos\main.cpp
+	<iostream>
+	<string>
+	"Pagamento.h"
+	"ControlePagamento.h"
+
+1698081267 c:\users\lailtonvilla\desktop\codigos-lp1\lpi c++ cpp 02\sistema-controle-pagamentos\include\controlepagamento.h
+	<algorithm>
+	<cctype>
+	"Pagamento.h"
+
+1698081180 source:c:\users\lailtonvilla\desktop\codigos-lp1\lpi c++ cpp 02\sistema-controle-pagamentos\src\controlepagamento.cpp
+	"ControlePagamento.h"
+	<string>
+
